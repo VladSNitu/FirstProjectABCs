@@ -32,7 +32,7 @@ Acesta este un proiect DIY de sortare automată a obiectelor pe culori folosind 
 
 
 ### V.Observații
-*** Proiectul integrează conceptul de joined files pentru a rula programul. Este gândit special pentru integrarea de viitoare subansambluri. ***
+***Proiectul integrează conceptul de joined files pentru a rula programul. Este gândit special pentru integrarea de viitoare subansambluri.***
 
 
 ### VII.fotografii cu el![WhatsApp Image 2025-11-21 at 21 14 21](https://github.com/user-attachments/assets/11f4bf5a-ab66-4e90-a900-e28a9b435dd1)
