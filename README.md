@@ -1,7 +1,7 @@
 # FirstProjectABCs
 Bandă de sortare pe culori.
 ### I.Descriere
-Acesta este un proiect DIY de sortare automată a obiectelor pe culori folosind Arduino. Sistemul detectează obiectele care trec pe o bandă, o opresc și detectează culorile fiecărui obiect.
+Acesta este un proiect DIY de sortare automată a obiectelor pe culori folosind Arduino. Sistemul detectează obiectele care trec pe o bandă, o opresc și apoi detectează culorile fiecărui obiect.
 
 
 ### II.Componente
@@ -21,7 +21,7 @@ Acesta este un proiect DIY de sortare automată a obiectelor pe culori folosind 
 1. Este o aplicație care încearcă să simuleze o bandă industrială.
 2. Motorul învârte o bandă până când senzorul HC-SRO4 detectează un obiect.
 3. Banda se oprește, și apoi începe ciclul de detectare a culorii.
-4. Modulu RGB aprinde fiecare culoare pe rând pentru un anumit interval de timp, citind intensitatea luminii cu ajutorul fotorezistorului după fiecare aprindere.
+4. Modulul RGB aprinde fiecare culoare pe rând pentru un anumit interval de timp, citind intensitatea luminii după fiecare aprindere cu ajutorul fotorezistorului 
 5. Microcontroller-ul afiseaza culoarea obiectului și apoi îi permite benzii să meargă mai departe.
 
 
